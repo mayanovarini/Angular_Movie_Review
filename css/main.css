@@ -16,6 +16,19 @@ img {
     background: #000;
 }
 
+.headertext {
+  float:right;
+  margin-top: 20px;
+  font-size: 4em;
+  display: inline-block;
+  vertical-align:top;
+}
+
+.logo {
+  display: inline-block;
+  float: left;
+}
+
 .header img {
     margin: 40px 0;
 }
@@ -30,9 +43,9 @@ img {
 }
 
 .main {
-    background-image:url(/img/diagmonds_@2X.png);
-    background-size:141px 142px;
+    background-image:url(../img/escheresque_ste.png);
     padding: 80px;
+​
 }
 
 .main .series {

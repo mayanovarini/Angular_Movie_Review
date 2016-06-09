@@ -11,7 +11,7 @@ app.controller('MainController', ['$scope', function($scope) {
   	},
     {
     series: "House of Cards",
-    series_img: "img/house_of_cards",
+    series_img: "img/house_of_cards.jpg",
     genre: "Political drama",
     season: 1,
     episode: "The Pilot",
